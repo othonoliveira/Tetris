@@ -25,11 +25,11 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## ☕ Jogando <Tetris>
 
-Para joga <Tetris>, basta utilizar o comando:
+Para joga <Tetris>, estando na raiz do projeto, basta utilizar o comando:
 ```
 python main.py
 ```
- Ou esse casa possua mais de uma versão do Python instalada:
+ Ou esse caso possua mais de uma versão do Python instalada:
 ```
 python3 main.py
 ```
